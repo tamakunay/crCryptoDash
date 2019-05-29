@@ -10,7 +10,7 @@ ReactHighcharts.Highcharts.setOptions(HighchartsTheme);
 
 export default function() {
     return (
-        <AppContent.Consumer>
+        <AppContent.Consumer >
             { ({historical, changeChartSelect}) =>
                 <Tile>
                     <ChartSelect

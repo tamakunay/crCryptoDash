@@ -10,7 +10,7 @@ const SpolightName = styled.h2`
 
 export default function () {
     return (
-        <AppContent.Consumer>
+        <AppContent.Consumer >
             {({currentFavorite, coinList}) =>
                 <Tile>
                     <SpolightName>{coinList[currentFavorite].CoinName}</SpolightName>
