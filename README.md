@@ -1,4 +1,7 @@
-This project is a simple crypto currency dashboard to keep track of crypto currencies and see statistics for the present and past data.
+This project is a simple crypto currency dashboard using the crypto currency api to view and see statistics on how the crypto you're tracking perfomed in the past, by Weeks/Days/Months.
+
+I built this app learning on how the react Context work and using styled components for styling the app and saving to local storage
+
 Developed using react 'create-react-app', styled using styled-components 
 
 Some features and pages <br>
